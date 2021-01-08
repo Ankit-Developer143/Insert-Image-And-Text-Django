@@ -1,4 +1,4 @@
-# Insert-Image-And-Text-Django
+
 
 ## Insert Images In Django
 
